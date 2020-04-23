@@ -1,0 +1,3 @@
+screen ./sshrun.sh
+screen ./phprun.sh
+
